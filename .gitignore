@@ -2,7 +2,7 @@ HELP.md
 build/
 .idea
 .gradle
-*.error.log
+*.error.loggit
 !**/src/main/**
 !**/src/test/**
 
