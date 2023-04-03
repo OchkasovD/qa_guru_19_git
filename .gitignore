@@ -2,6 +2,7 @@ HELP.md
 build/
 .idea
 .gradle
+*.error.log
 !**/src/main/**
 !**/src/test/**
 
