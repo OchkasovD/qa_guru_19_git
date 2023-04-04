@@ -3,8 +3,7 @@ build/
 .idea
 .gradle
 *.error.log
-!**/src/main/**
-!**/src/test/**
+
 
 
 ### IntelliJ IDEA ###
